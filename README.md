@@ -11,7 +11,7 @@ This project demonstrates provisioning a managed cloud database using AWS RDS fo
 
 
 ARCHITECT Diagram
-![Architecture diagram](Diagram.png)
+
 ## Database Details
 - **Database Name:** interns_db
 - **Table Name:** Interns
